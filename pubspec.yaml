@@ -43,6 +43,44 @@ flutter:
     - assets/images/flower.png
     - assets/images/g.png
     - assets/images/grasshopper.png
+    - assets/images/h.png
+    - assets/images/helicopter.png
+    - assets/images/i.png
+    - assets/images/icecream.png
+    - assets/images/j.png
+    - assets/images/jellyfish.png
+    - assets/images/k.png
+    - assets/images/key.png
+    - assets/images/l.png
+    - assets/images/lion.png
+    - assets/images/m.png
+    - assets/images/monkey.png
+    - assets/images/n.png
+    - assets/images/noodles.png
+    - assets/images/o.png
+    - assets/images/owl.png
+    - assets/images/p.png
+    - assets/images/panda.png
+    - assets/images/q.png
+    - assets/images/quokka.png
+    - assets/images/r.png
+    - assets/images/robot.png
+    - assets/images/s.png
+    - assets/images/star.png
+    - assets/images/t.png
+    - assets/images/tiger.png
+    - assets/images/u.png
+    - assets/images/umbrella.png
+    - assets/images/v.png
+    - assets/images/vase.png
+    - assets/images/w.png
+    - assets/images/watermelon.png
+    - assets/images/x.png
+    - assets/images/xylophone.png
+    - assets/images/y.png
+    - assets/images/yacht.png
+    - assets/images/z.png
+    - assets/images/zebra.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

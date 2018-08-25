@@ -5,7 +5,7 @@ final pages = [
       Colors.blueGrey,
       'assets/images/alphabet_book.png',
       'Alphabet Book',
-      'Orion M. Williams',
+      '',
       'assets/images/orion.png'
   ),
   new PageViewModel(
@@ -30,14 +30,14 @@ final pages = [
       'assets/images/c.png'
   ),
   new PageViewModel(
-      Colors.indigo,
+      Colors.lightGreen,
       'assets/images/dog.png',
       'D    d',
       'Dog',
       'assets/images/d.png'
   ),
   new PageViewModel(
-      Colors.indigo,
+      Colors.indigoAccent,
       'assets/images/elephant.png',
       'E    e',
       'Elephant',
@@ -51,11 +51,137 @@ final pages = [
       'assets/images/f.png'
   ),
   new PageViewModel(
-      Colors.indigo,
+      Colors.lightGreen,
       'assets/images/grasshopper.png',
       'G    g',
       'Grasshopper',
       'assets/images/g.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/helicopter.png',
+      'H    h',
+      'Helicopter',
+      'assets/images/h.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/icecream.png',
+      'I    i',
+      'Ice Cream',
+      'assets/images/i.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/jellyfish.png',
+      'J    j',
+      'Jellyfish',
+      'assets/images/j.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/key.png',
+      'K    k',
+      'Key',
+      'assets/images/k.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/lion.png',
+      'L    l',
+      'Lion',
+      'assets/images/l.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/monkey.png',
+      'M    m',
+      'Monkey',
+      'assets/images/m.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/noodles.png',
+      'N    n',
+      'Noodles',
+      'assets/images/n.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/owl.png',
+      'O    o',
+      'Owl',
+      'assets/images/o.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/panda.png',
+      'P    p',
+      'Panda',
+      'assets/images/p.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/quokka.png',
+      'Q    q',
+      'Quokka',
+      'assets/images/q.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/robot.png',
+      'R    r',
+      'Robot',
+      'assets/images/r.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/star.png',
+      'S    s',
+      'Star',
+      'assets/images/s.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/tiger.png',
+      'T    t',
+      'Tiger',
+      'assets/images/t.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/umbrella.png',
+      'U    u',
+      'Umbrella',
+      'assets/images/u.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/vase.png',
+      'V    v',
+      'Vase',
+      'assets/images/v.png'
+  ),
+  new PageViewModel(
+      Colors.indigoAccent,
+      'assets/images/watermelon.png',
+      'W    w',
+      'Watermelon',
+      'assets/images/w.png'
+  ),
+  new PageViewModel(
+      Colors.indigo,
+      'assets/images/xylophone.png',
+      'X    x',
+      'Xylophone',
+      'assets/images/x.png'
+  ),
+  new PageViewModel(
+      Colors.lightGreen,
+      'assets/images/zebra.png',
+      'Z    z',
+      'Zebra',
+      'assets/images/z.png'
   ),
 ];
 
